@@ -1,0 +1,3 @@
+ProcessControl.php - library of classes
+Worker.php	- example of a gearman worker setup
+GearmanWorker.php - creates and configures a gearman worker instance, included use in Worker.php
